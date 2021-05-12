@@ -1,3 +1,6 @@
 nuevo txt a modificar
 
 cambiando texto a las 9:20
+
+
+cambiando texto a las 9:28 checando antes de unir otros repos
